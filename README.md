@@ -16,3 +16,4 @@ a nossa comunidade se reúne pra aprender novos conceitos
 e ferramentas, descobrir novas tecnologias e hacks para
 a carreira, treinar as habilidades e evoluir na
 velocidade que a tecnologia exige."
+https://rocketseat.com.br

@@ -7,9 +7,25 @@ para ONGs que precisam de incentivo fiscal
 em casos específicos.
 
 Conhecimentos abordados nesse projeto:
+
   -Back-end com Node.js;
+  
+    -Banco de dados SQLite;
+    -Rotas;
+    -Métodos HTTP;
+    -Express;
+    -Testes e TDD;
+    
   -Front-end com React;
+  
+    -Conhecimentos gerais sobre a esttrutura;
+    
   -Mobile com React Native;
+  
+    -Diferenças e semelhanças do ReactJS;
+    -Configuração e utilização do Expo;
+    
+  -Deploy do projeto;
 
 "A Semana Omnistack é um evento 100% online e gratuito onde
 a nossa comunidade se reúne pra aprender novos conceitos
